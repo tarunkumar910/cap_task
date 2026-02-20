@@ -1,0 +1,2 @@
+2026-02-20 16:12:03,118 - INFO - List: [1, 2, 3, 5, 6, 4], Sorted in ascending order: False
+2026-02-20 16:12:13,638 - INFO - List: [1, 2, 3, 5, 6], Sorted in ascending order: True
