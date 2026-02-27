@@ -1,0 +1,30 @@
+2026-02-27 15:31:30,525 | INFO |Line:8 | Traffic Simulation Stared....
+2026-02-27 15:31:35,480 | INFO |Line:7 | Trafic signal created with vechile count 3
+2026-02-27 15:31:35,480 | INFO |Line:6 | Signal controller startd for City Signal
+2026-02-27 15:31:35,480 | INFO |Line:11 | Calculting green time for city signal
+2026-02-27 15:36:08,613 | INFO |Line:8 | Traffic Simulation Started....
+2026-02-27 15:36:10,368 | INFO |Line:8 | Traffic Simulation Started....
+2026-02-27 15:36:12,288 | INFO |Line:8 | Traffic Simulation Started....
+2026-02-27 15:36:14,965 | INFO |Line:7 | Traffic signal created with vehicle count 7
+2026-02-27 15:36:14,965 | INFO |Line:6 | Signal controller started for City Signal
+2026-02-27 15:36:14,965 | INFO |Line:11 | Calculating green time for city signal
+2026-02-27 15:36:14,967 | INFO |Line:8 | City Signal --> Green for 30 seconds
+2026-02-27 15:36:14,967 | INFO |Line:9 |  Signal Controller operation completed
+2026-02-27 15:36:14,967 | INFO |Line:7 | Traffic signal created with vehicle count 7
+2026-02-27 15:36:14,967 | INFO |Line:6 | Signal controller started for Highway Signal
+2026-02-27 15:36:14,967 | INFO |Line:11 | Calculating green time for highway signal
+2026-02-27 15:36:14,967 | INFO |Line:8 | Highway Signal --> Green for 30 seconds
+2026-02-27 15:36:14,967 | INFO |Line:9 |  Signal Controller operation completed
+2026-02-27 15:36:14,967 | INFO |Line:19 | Traffic Simulation Completed....
+2026-02-27 15:38:38,657 | INFO |Line:8 | Traffic Simulation Started....
+2026-02-27 15:38:41,819 | INFO |Line:7 | Traffic signal created with vehicle count 1000
+2026-02-27 15:38:41,819 | INFO |Line:6 | Signal controller started for City Signal
+2026-02-27 15:38:41,819 | INFO |Line:11 | Calculating green time for city signal
+2026-02-27 15:38:41,819 | INFO |Line:8 | City Signal --> Green for 60 seconds
+2026-02-27 15:38:41,819 | INFO |Line:9 |  Signal Controller operation completed
+2026-02-27 15:38:41,819 | INFO |Line:7 | Traffic signal created with vehicle count 1000
+2026-02-27 15:38:41,819 | INFO |Line:6 | Signal controller started for Highway Signal
+2026-02-27 15:38:41,819 | INFO |Line:11 | Calculating green time for highway signal
+2026-02-27 15:38:41,820 | INFO |Line:8 | Highway Signal --> Green for 60 seconds
+2026-02-27 15:38:41,820 | INFO |Line:9 |  Signal Controller operation completed
+2026-02-27 15:38:41,820 | INFO |Line:19 | Traffic Simulation Completed....
